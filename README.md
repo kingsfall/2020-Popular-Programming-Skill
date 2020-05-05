@@ -15,12 +15,12 @@ I felt there was no need to be using any complicated text classification NLP pac
 
 ## Reviewing results
 
-![Popular-programming-roles] (jobplot.png)
+![Popular-programming-roles](jobplot.png)
 
 Looking at the results for the most popular roles from WeWorkRemotely, it did not come as a surprise that a full stack role is in high demand. This also tells us that companies hiring from WeWorkRemotely are probably SMEs whom require a programmer to wear multiple hats during the development pipline, playing front end and back end roles.
 
 I was surprise at the disproportionate lack in requirement for the DevOps role. I thought DevOps roles are gaining popularity as there is a need for someone to manage code base, code deployment, etc. Perhaps someoone can shed some light on this?
 
-![Skill-in-demand] (skillplot.png)
+![Skill-in-demand](skillplot.png)
 
 Ruby on rails and React are side by side as the most in demand skills in the market right now, with Ruby on rails having a slight edge when you count the additional tag count for 'Ruby'. It is not surprising that React is one of the most popular javascript framework right now. Having knowledge on these 2 skills will be crucial on obtaining a job in the remote work market in 2020.  
