@@ -1,0 +1,17 @@
+{
+  "name": "Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "giphy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@viclafouch/fetch-crawler": "^1.0.13",
+    "cheerio": "^1.0.0-rc.3",
+    "file-system": "^2.2.2"
+  }
+}
